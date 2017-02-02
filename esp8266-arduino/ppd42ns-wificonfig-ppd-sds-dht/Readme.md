@@ -54,6 +54,7 @@ Installierbar über Arduino IDE (Menü Sketch -> Bibliothek einbinden -> Bibliot
 ArduinoJson <https://github.com/bblanchon/ArduinoJson> (5.7.3)  
 Adafruit Unified Sensor <https://github.com/adafruit/Adafruit_Sensor> (1.0.2)  
 Adafruit BMP085 library <https://github.com/adafruit/Adafruit-BMP085-Library> (1.0.0)  
+Adafruit_BME280_Library (ist auch nötig)
 DHT sensor library <https://github.com/adafruit/DHT-sensor-library> (1.3.0)  
 ESP8266 Oled driver for SSD1306 display <https://github.com/squix78/esp8266-oled-ssd1306> (3.2.3)  
 ESP8266httpUpdate (1.1.0)  
